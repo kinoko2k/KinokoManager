@@ -1,0 +1,8 @@
+name: KinokoManager
+version: '1.0.0'
+main: net.kinoko2k.kinokomanager.KinokoManager
+api-version: '1.21'
+load: STARTUP
+authors: [ kinoko1216 ]
+description: Utility Tool
+website: https://bento.me/kinoko1216
